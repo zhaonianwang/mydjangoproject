@@ -5,7 +5,8 @@
 #    items = Item.objects.all()
 #    return render(request, 'myapp/index.html', {'items': items})
 	
-	
+###################
+###################
 	
 from django.shortcuts import render
 
